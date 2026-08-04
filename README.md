@@ -1,6 +1,6 @@
 # Hi, I'm Rijul Sahu
 
-[![AWS Certified](https://img.shields.io/badge/AWS-Solutions%20Architect-orange?logo=amazon-aws)](https://www.youracclaim.com/badges/8a29b89e-c32b-44f7-94be-800f7412c16d/linked_in)
+[![AWS Certified](https://img.shields.io/badge/AWS-Solutions%20Architect-orange?logo=amazon-aws)](https://www.credly.com/badges/517e7ddb-d863-4751-af60-fd476dd92cb6/public_url)
 [![Databricks Certified](https://img.shields.io/badge/Databricks-Data%20Engineer-red?logo=databricks)](https://credentials.databricks.com/159633769)
 [![Portfolio](https://img.shields.io/badge/Portfolio-rijul.cloud-blue?logo=google-chrome)](https://rijul.cloud)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/rijul-sahu-242b59129)
