@@ -5,7 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-rijul.cloud-blue?logo=google-chrome)](https://rijul.cloud)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/rijul-sahu-242b59129)
 
-**Lead Data Engineer @ Mars Snacking** · 14+ years · Evolving toward **Cloud Solutions Architect**
+**Lead Data Engineer @ Mars Snacking** · 15 years · AWS Certified **Cloud Solutions Architect** & Databricks Certified **Data Engineer**
 
 ---
 
